@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 724f4e949aac28347a032555e4365f59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8943642857581061666
+    second: User_Bubble
+  - first:
+      213: 4515055533123649006
+    second: Bot_Bublle
+  - first:
+      213: 5218343850938158205
+    second: Chat Bubbles_2
+  - first:
+      213: -7828630232689026367
+    second: Chat Bubbles_3
+  - first:
+      213: 420856805008427648
+    second: Chat Bubbles_4
+  - first:
+      213: -6813030118452822538
+    second: Chat Bubbles_5
+  - first:
+      213: -4045464905714770603
+    second: Chat Bubbles_6
+  - first:
+      213: 8411149306712513964
+    second: Chat Bubbles_7
+  - first:
+      213: 1466409631514838962
+    second: Chat Bubbles_8
+  - first:
+      213: -738984741864980109
+    second: Chat Bubbles_9
+  - first:
+      213: 992236667593242157
+    second: Chat Bubbles_10
+  - first:
+      213: -4908723438839160668
+    second: Chat Bubbles_11
+  - first:
+      213: -4693963787640445876
+    second: Chat Bubbles_12
+  - first:
+      213: -1389782008369156062
+    second: Chat Bubbles_13
+  - first:
+      213: -2625712594329854196
+    second: Chat Bubbles_14
+  - first:
+      213: -2217758429786092093
+    second: Chat Bubbles_15
+  - first:
+      213: 3570890218537473795
+    second: Chat Bubbles_16
+  - first:
+      213: 4725244146779345025
+    second: Chat Bubbles_17
+  - first:
+      213: 2291697214395587316
+    second: Chat Bubbles_18
+  - first:
+      213: -2014292828628043339
+    second: Chat Bubbles_19
+  - first:
+      213: -1277030316635648170
+    second: Chat Bubbles_20
+  - first:
+      213: -3133716215628698850
+    second: Chat Bubbles_21
+  - first:
+      213: 19160482042739136
+    second: Chat Bubbles_22
+  - first:
+      213: 4638859304405306337
+    second: Chat Bubbles_23
+  - first:
+      213: 6123364972288295650
+    second: Chat Bubbles_24
+  - first:
+      213: -4530633720229228464
+    second: Chat Bubbles_25
+  - first:
+      213: -3400815045750380664
+    second: Chat Bubbles_26
+  - first:
+      213: 7419036418486893270
+    second: Chat Bubbles_27
+  - first:
+      213: -786258083328844069
+    second: Chat Bubbles_28
+  - first:
+      213: 795432785039143797
+    second: Chat Bubbles_29
+  - first:
+      213: 5787767863858110925
+    second: Chat Bubbles_30
+  - first:
+      213: -2743646387792705041
+    second: Chat Bubbles_31
+  - first:
+      213: 3731999884456949354
+    second: Chat Bubbles_32
+  - first:
+      213: 5231678925402665149
+    second: Chat Bubbles_33
+  - first:
+      213: 7269974208630866411
+    second: Chat Bubbles_34
+  - first:
+      213: 1636717457435973468
+    second: Chat Bubbles_35
+  - first:
+      213: 8960241971408722581
+    second: Chat Bubbles_36
+  - first:
+      213: 1625873262813092425
+    second: Chat Bubbles_37
+  - first:
+      213: 4423923702581453956
+    second: Chat Bubbles_38
+  - first:
+      213: -7992500354363750991
+    second: Chat Bubbles_39
+  - first:
+      213: -8217534211624816137
+    second: Chat Bubbles_40
+  - first:
+      213: -3075835377581180335
+    second: Chat Bubbles_41
+  - first:
+      213: -4325239253692362809
+    second: Chat Bubbles_42
+  - first:
+      213: -3030545679748980666
+    second: Chat Bubbles_43
+  - first:
+      213: -4287370626889305138
+    second: Chat Bubbles_44
+  - first:
+      213: -2172848661304466024
+    second: Chat Bubbles_45
+  - first:
+      213: 3043097158933151184
+    second: Chat Bubbles_46
+  - first:
+      213: 3056000970230279408
+    second: Chat Bubbles_47
+  - first:
+      213: 8625678238442277423
+    second: Chat Bubbles_48
+  - first:
+      213: 4446537031708067779
+    second: Chat Bubbles_49
+  - first:
+      213: -378296874253969695
+    second: Chat Bubbles_50
+  - first:
+      213: -421903866293899935
+    second: Chat Bubbles_51
+  - first:
+      213: 260930969120834047
+    second: Chat Bubbles_52
+  - first:
+      213: 3458019478920889894
+    second: Chat Bubbles_53
+  - first:
+      213: -1649838102889959625
+    second: Chat Bubbles_54
+  - first:
+      213: -465550722841970397
+    second: Chat Bubbles_55
+  - first:
+      213: -2758242036530316781
+    second: Chat Bubbles_56
+  - first:
+      213: -2596816851124431622
+    second: Chat Bubbles_57
+  - first:
+      213: 621256798695665642
+    second: Chat Bubbles_58
+  - first:
+      213: -8601618871005334501
+    second: Chat Bubbles_59
+  - first:
+      213: 2089658214071942518
+    second: Chat Bubbles_60
+  - first:
+      213: 5137643680110047863
+    second: Chat Bubbles_61
+  - first:
+      213: -885343141654971923
+    second: Chat Bubbles_62
+  - first:
+      213: -7913776347483646433
+    second: Chat Bubbles_63
+  - first:
+      213: -1674618942870639522
+    second: Chat Bubbles_64
+  - first:
+      213: 3094696362930519741
+    second: Chat Bubbles_65
+  - first:
+      213: 7546130571811245909
+    second: Chat Bubbles_66
+  - first:
+      213: -2883245040069877066
+    second: Chat Bubbles_67
+  - first:
+      213: -2572978799132167155
+    second: Chat Bubbles_68
+  - first:
+      213: 549345891206296619
+    second: Chat Bubbles_69
+  - first:
+      213: -3654072130476164726
+    second: Chat Bubbles_70
+  - first:
+      213: 2341445992215157731
+    second: Chat Bubbles_71
+  - first:
+      213: -5204452055903666663
+    second: Chat Bubbles_72
+  - first:
+      213: -6678730172928829315
+    second: Chat Bubbles_73
+  - first:
+      213: -5453137986904675461
+    second: Chat Bubbles_74
+  - first:
+      213: -7225888732440244269
+    second: Chat Bubbles_75
+  - first:
+      213: -445150436913299230
+    second: Chat Bubbles_76
+  - first:
+      213: 8979087019318473473
+    second: Chat Bubbles_77
+  - first:
+      213: 7723538519821624274
+    second: Chat Bubbles_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: User_Bubble
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 175
+        width: 1170
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 13, y: 14, z: 21, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22624142bc33e1c70800000000000000
+      internalID: 8943642857581061666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Bublle
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 1170
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 17, y: 9, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3ff8e513b8ae30800000000000000
+      internalID: 4515055533123649006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 356212eea3ada024794b21fe9e9cf2a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
